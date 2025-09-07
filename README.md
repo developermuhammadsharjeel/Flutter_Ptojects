@@ -1,16 +1,38 @@
-# instagram
+Instagram Reminder App 🚫📱
 
-A new Flutter project.
+A super simple Flutter app made just for fun.
+Instead of endless scrolling on Instagram, when you open this app it simply says:
+“Phir aa gaye Instagram per? Goals pure kr liye?” 😏
 
-## Getting Started
+The idea is to remind you that you shouldn’t waste time on reels until your goals are achieved.
+Think of it as a light-hearted productivity hack disguised as Instagram.
 
-This project is a starting point for a Flutter application.
+✨ Features
+No reels, no likes, no explore page – just a savage reminder.
+Funny text that motivates you (or roasts you 😅).
+You can easily change the text in the code to suit your style.
 
-A few resources to get you started if this is your first Flutter project:
+🛠 How to Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone this repository:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git clone https://github.com/developermuhammadsharjeel/Flutter_Ptojects.git
+
+Navigate to the project folder:
+cd repo-name
+
+Get Flutter dependencies:
+flutter pub get
+Run the app:
+flutter run
+🎯 Why this app?
+
+Because sometimes we need a funny push instead of motivational speeches.
+This app is a reminder to focus on your goals instead of doom-scrolling.
+
+📸 Screenshot 
+![App Screenshot](assets/instagram_logo.png)
+
+🤝 Contribution
+Want to add more roast lines? Go ahead and open a PR.
+Suggestions are welcome!
