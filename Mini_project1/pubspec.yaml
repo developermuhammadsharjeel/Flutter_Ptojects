@@ -1,0 +1,35 @@
+name: mini_project1
+description: A fullscreen WebView Flutter app with favorites and settings modal.
+publish_to: "none" # Remove if you want to publish to pub.dev
+
+# Versioning
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  webview_flutter: ^4.4.2
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment this if you want to add assets (images, etc.)
+  # assets:
+  #   - assets/images/
+
+  # Uncomment this if you want custom fonts
+  # fonts:
+  #   - family: CustomFont
+  #     fonts:
+  #       - asset: fonts/CustomFont-Regular.ttf
